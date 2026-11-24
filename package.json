@@ -1,0 +1,1 @@
+{"description":"One office-life joke, written for make.fun's Make the AI Judge Laugh: the Office Joke Open bounty.","license":"MIT","main":"main.ts","name":"office-joke-open-01","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
